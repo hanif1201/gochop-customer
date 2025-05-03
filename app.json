@@ -43,9 +43,7 @@
       ]
     ],
     "extra": {
-      "eas": {
-        "projectId": "gochop-customer"
-      }
+      "eas": {}
     }
   }
 }
